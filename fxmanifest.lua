@@ -9,10 +9,9 @@ client_scripts {
     'client.lua'
 }
 
-ui_page 'html/index.html'
+ui_page 'index.html'
 
 files {
     'index.html',
     'script.js'
 }
-
